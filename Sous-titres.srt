@@ -1,0 +1,327 @@
+1
+00:00:01,500 --> 00:00:06,500
+À Maurice, un adulte sur cinq est diabétique.
+
+2
+00:00:07,000 --> 00:00:12,000
+Et près d'un sur trois... ne le sait pas encore.
+
+3
+00:00:12,500 --> 00:00:17,000
+En 2024, le diabète a causé 2 709 décès.
+
+4
+00:00:17,200 --> 00:00:19,000
+Près d'un sur quatre.
+
+5
+00:00:19,500 --> 00:00:24,500
+Pendant que le corps se tait, la médecine arrive trop tard.
+
+6
+00:00:26,000 --> 00:00:32,000
+Tibok est la première plateforme mauricienne de télémédecine grand public.
+
+7
+00:00:33,000 --> 00:00:41,000
+Plus de 20 médecins inscrits au Medical Council prennent en charge les patients en vidéo, 7j/7.
+
+8
+00:00:42,000 --> 00:00:48,000
+Mais Tibok n'est pas une simple application de consultation.
+
+9
+00:00:48,500 --> 00:00:53,000
+C'est un écosystème de Medical Intelligence.
+
+10
+00:00:54,000 --> 00:01:06,000
+Consultation, ordonnance, pharmacie, analyses, suivi chronique, second avis, prévention, validation assurance.
+
+11
+00:01:07,000 --> 00:01:18,000
+Conçu et opéré depuis Maurice par le Dr Stéphane Bach, médecin spécialiste en santé publique.
+
+12
+00:01:20,500 --> 00:01:25,000
+La téléconsultation n'est pas un débat juridique.
+
+13
+00:01:25,500 --> 00:01:30,000
+C'est un fait accompli — depuis bientôt 30 ans.
+
+14
+00:01:31,000 --> 00:01:38,000
+Depuis 1997, l'OMS la définit comme un acte médical à part entière.
+
+15
+00:01:38,500 --> 00:01:44,000
+La France la rembourse depuis 2018. Les États-Unis dans les 50 États.
+
+16
+00:01:44,500 --> 00:01:51,000
+Royaume-Uni, Allemagne, Australie, Canada, Suisse — droit commun.
+
+17
+00:01:52,000 --> 00:01:54,000
+Et à Maurice ?
+
+18
+00:01:54,500 --> 00:02:02,000
+Le Medical Council Act de 1999 n'impose aucune condition de présence physique.
+
+19
+00:02:02,500 --> 00:02:11,000
+L'acte médical se définit par la qualité de son auteur — un médecin inscrit. Pas par le canal technique.
+
+20
+00:02:11,500 --> 00:02:14,500
+Ce qui n'est pas interdit est permis.
+
+21
+00:02:15,000 --> 00:02:23,000
+La téléconsultation Tibok est légale, opposable et remboursable de droit commun.
+
+22
+00:02:30,500 --> 00:02:34,000
+Découvrons l'écosystème Tibok.
+
+23
+00:02:34,500 --> 00:02:40,000
+Dix outils — gravitant autour d'une intelligence centrale.
+
+24
+00:02:41,000 --> 00:02:52,000
+Téléconsultation, ordonnance, pharmacie, analyses, suivi, famille, SilentCheck, second avis, validation.
+
+25
+00:02:53,000 --> 00:02:58,000
+Au cœur de tout : la Medical Intelligence.
+
+26
+00:02:58,500 --> 00:03:06,000
+Elle ne se limite pas à un module — elle intervient à tous les niveaux. À chaque consultation, à chaque ordonnance.
+
+27
+00:03:08,000 --> 00:03:13,000
+Autour d'elle, des agents IA qui ne dorment jamais.
+
+28
+00:03:14,000 --> 00:03:22,000
+L'agent de suivi chronique — rappels WhatsApp, alertes médecin en cas de valeur anormale.
+
+29
+00:03:22,500 --> 00:03:30,000
+L'agent de prévention — croisement des cohortes avec les référentiels scientifiques.
+
+30
+00:03:30,500 --> 00:03:39,000
+L'agent de validation — analyse chaque ordonnance avant engagement de l'assureur.
+
+31
+00:03:40,000 --> 00:03:46,000
+Une chaîne complète. Pilotée. Tracée. Verrouillée.
+
+32
+00:04:01,000 --> 00:04:07,000
+Au cœur de Tibok : la Medical Intelligence.
+
+33
+00:04:08,000 --> 00:04:17,000
+Les meilleurs LLM du marché — Claude, GPT, Gemini, Mistral — combinés à un système RAG.
+
+34
+00:04:17,500 --> 00:04:25,000
+Plus de 60 000 références issues des plus grandes sociétés savantes mondiales.
+
+35
+00:04:25,500 --> 00:04:34,000
+OMS, Société européenne de cardiologie, American Heart Association, NICE, INSERM, HAS, FDA.
+
+36
+00:04:35,000 --> 00:04:45,000
+Chaque consultation, chaque ordonnance, chaque rapport est verrouillé par ce socle scientifique.
+
+37
+00:04:46,000 --> 00:04:50,000
+L'IA ne remplace pas le médecin.
+
+38
+00:04:50,500 --> 00:04:53,000
+Elle l'augmente.
+
+39
+00:04:54,000 --> 00:04:58,000
+Elle vérifie. Elle suggère. Elle alerte.
+
+40
+00:04:59,000 --> 00:05:04,000
+Et c'est le médecin qui garde, toujours, la décision finale.
+
+41
+00:05:20,500 --> 00:05:25,000
+Notre innovation phare s'appelle SilentCheck.
+
+42
+00:05:25,500 --> 00:05:34,000
+Un outil de stratification du risque cardiovasculaire, basé sur le Score BSD.
+
+43
+00:05:35,000 --> 00:05:38,500
+Bach, Sampol, Dignat-George.
+
+44
+00:05:39,500 --> 00:05:47,000
+Une science fondée sur 4 millions de patients suivis dans 52 pays.
+
+45
+00:05:47,500 --> 00:05:56,000
+53 références scientifiques publiées dans NEJM, Lancet, JACC, Circulation.
+
+46
+00:05:56,500 --> 00:06:02,000
+69 612 individus inclus dans la cohorte de validation.
+
+47
+00:06:02,500 --> 00:06:09,000
+11 profils ethniques, 7 multiplicateurs adaptés à Maurice.
+
+48
+00:06:10,000 --> 00:06:15,000
+15 biomarqueurs. 3 bilans selon le niveau de risque.
+
+49
+00:06:16,000 --> 00:06:24,000
+SilentCheck détecte 5 à 10 ans à l'avance les anomalies que les symptômes ne révèlent pas encore.
+
+50
+00:06:25,000 --> 00:06:32,500
+80 % des maladies cardiaques se développent sans symptôme pendant une décennie.
+
+51
+00:06:33,000 --> 00:06:40,000
+85 % des complications sont évitables avec une détection précoce.
+
+52
+00:06:40,500 --> 00:06:45,000
+Agir avant la maladie. Pas après.
+
+53
+00:06:46,000 --> 00:06:52,000
+Pour les pathologies complexes, Tibok propose le Second Avis Médical.
+
+54
+00:06:53,000 --> 00:07:04,000
+Le dossier complet — anamnèse, ordonnance, imagerie, biologie — est intégralement revérifié par notre dispositif IA et RAG médical.
+
+55
+00:07:05,000 --> 00:07:13,000
+Les LLM analysent le dossier. Le moteur RAG le confronte à nos 60 000 références.
+
+56
+00:07:13,500 --> 00:07:18,000
+Un médecin Tibok valide le rapport final.
+
+57
+00:07:19,000 --> 00:07:25,000
+Une seconde lecture entièrement scientifiquement sourcée.
+
+58
+00:07:26,000 --> 00:07:32,000
+Pour l'assuré : la rassurance d'un dossier revu sans angle mort.
+
+59
+00:07:32,500 --> 00:07:38,500
+Pour l'assureur : un contrôle qualité automatisé, avant tout acte coûteux.
+
+60
+00:07:40,500 --> 00:07:47,000
+Le module clé pour NIC : la Validation Assurance.
+
+61
+00:07:48,000 --> 00:07:58,000
+Toute ordonnance, toute prescription d'examen, toute intervention transite par la plateforme.
+
+62
+00:07:59,000 --> 00:08:09,000
+L'assureur reçoit en temps réel le document, le contexte clinique, et l'analyse de pertinence.
+
+63
+00:08:10,000 --> 00:08:16,000
+Il peut valider, demander un complément, ou orienter vers un second avis.
+
+64
+00:08:17,500 --> 00:08:19,500
+Trois leviers structurels :
+
+65
+00:08:20,000 --> 00:08:23,000
+la fin de la sur-prescription ;
+
+66
+00:08:23,500 --> 00:08:31,000
+la lutte structurée contre la fraude — horodatage, signature électronique, traçabilité vidéo ;
+
+67
+00:08:31,500 --> 00:08:39,000
+la maîtrise du ratio sinistres sur primes par le pilotage des cohortes.
+
+68
+00:08:41,000 --> 00:08:46,000
+Voici ce que Tibok propose à NIC.
+
+69
+00:08:47,000 --> 00:08:50,000
+Trois prix. Un seul standard.
+
+70
+00:08:51,000 --> 00:09:00,000
+Pour le grand public : 800 roupies la consultation, à la demande, facturée par les médecins.
+
+71
+00:09:01,500 --> 00:09:13,000
+Pour NIC en tant qu'entreprise : 50 roupies par mois et par assuré couvert — accès complet à la Medical Intelligence.
+
+72
+00:09:14,000 --> 00:09:25,000
+Tableau de bord assureur, validation temps réel, analytique anonymisée, agents IA dédiés.
+
+73
+00:09:26,500 --> 00:09:36,000
+Pour les assurés NIC : tarif préférentiel de 500 roupies la consultation, au lieu de 800.
+
+74
+00:09:36,500 --> 00:09:45,500
+Suivi chronique offert. Second avis offert. SilentCheck inclus. Validation sans paperasse.
+
+75
+00:09:46,500 --> 00:09:54,500
+Aucun standard de cette qualité n'existe aujourd'hui sur le continent africain.
+
+76
+00:09:55,500 --> 00:10:01,000
+Un partenariat. Trois bénéfices.
+
+77
+00:10:01,500 --> 00:10:09,000
+Expérience moderne, maîtrise des coûts, standard international.
+
+78
+00:10:10,500 --> 00:10:16,000
+Le marché mauricien de l'assurance santé est à un tournant.
+
+79
+00:10:17,000 --> 00:10:22,000
+Respect, Relation, Responsabilité, Rigueur, Résultats — l'ADN de NIC.
+
+80
+00:10:22,500 --> 00:10:28,000
+Servir, protéger, donner les moyens d'agir : la mission de NIC, portée par la Medical Intelligence de Tibok.
+
+81
+00:10:29,500 --> 00:10:34,500
+Bâtissons ensemble le standard de demain.
+
+82
+00:10:35,500 --> 00:10:41,000
+Dr Stéphane Bach. Digital Data Solutions. tibok.mu.
